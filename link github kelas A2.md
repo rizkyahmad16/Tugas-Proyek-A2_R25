@@ -13,7 +13,7 @@
 |  10 |               | YULIA SARI             | <>                                                                
 |  11 | 1910131210017 | JAMALUDIN              | <https://github.com/Malja321999/PROYEK-MP-PUSPA git>  |                                                              
 |  12 |               | FIRMAN HIDAYAT         | <>                                                                
-|  13 | 1910131310003 | RIZKY AHMAD            | <> |                                                                
+|  13 | 1910131310003 | RIZKY AHMAD            | <>                                                                 
 |  14 |               | MUHAMMAD HERU ABDULLAH | <>                                                                
-|  15 |               | CALISTA RAMADHAN       | <>                                                                
- 
+|  15 | 2010121210011 | AULIA SURYANULLAH      | <https://github.com/SuryaaN15/Tugas-Proyek-Perangkat-Lunak>                      |
+|  16 | 2010131210016 | M. FIKRI ABRAR         | <https://github.com/mfikriabrar17/PPL>                                           |
