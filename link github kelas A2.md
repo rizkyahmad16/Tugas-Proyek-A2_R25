@@ -10,7 +10,7 @@
 |  7  | 1910131320014 | TRISENA WULANDARI      |                                                                                  |
 |  8  | 1910131320008 | CALISTA RAMADHAN       | <https://github.com/Calista19/Media-Interaktif>                                  |
 |  9  | 1910131120002 | RESTI NUR AMALLIA      |                                                                                  |
-|  10 | 1910131120001 | YULIA SARI             |                                                                                  |
+|  10 | 1910131120001 | YULIA SARI             | <https://github.com/Yuliasari1907/MATA-KULIAH-SEMESTER-7/tree/main/AMPC6707%20Proyek%20Perangkat%20Lunak%20(Pilihan)> |
 |  11 | 1910131210017 | JAMALUDIN              | <https://github.com/Malja321999/PROYEK-MP-PUSPA.git>                             |
 |  12 | 1910131210007 | FIRMAN HIDAYAT         |                                                                                  |
 |  13 | 1910131310003 | RIZKY AHMAD            | <https://github.com/rizkyahmad16/AMPC6707_Proyek_Perangkat_Lunak>                |
