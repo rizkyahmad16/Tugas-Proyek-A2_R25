@@ -1,7 +1,7 @@
 
 |  No |      Nim      |          Nama          |                                 Link Github                                      |
 |-----|---------------|------------------------|----------------------------------------------------------------------------------|
-|  1  |               | SAMIAJI SANTOSO        |                                                                                  |
+|  1  | 1710131310039 | SAMIAJI SANTOSO        | <https://github.com/SamiajiSantoso/Proyek-Perangkat-Lunak>                       |
 |  2  |               | AHMAD HUSNI            |                                                                                  |
 |  3  | 1810131310027 | HASANUDDIN             | <https://github.com/hasanuddinpmgrProyek-Perangkat-Lunak-/releases/tag/Novanabs> |
 |  4  | 1810131110020 | ZAILANI                | <https://github.com/zaylani99/CSE-Proyek-Perangkat-Lunak/invitations>            |
